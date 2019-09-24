@@ -3,7 +3,7 @@
 <head>
 	<title>latihan bootstrap</title>
 	<!--pemanggilan css --->
-	<link rel="stylesheet" href="/assets/css/bootstrap.mon.css">
+	<link rel="stylesheet" href=" assets/css/bootstrap.min.css">
 	<!-- akhir pemanggilan css-->
 </head>
 <body>
@@ -19,7 +19,7 @@
 		</div>
 	</div>
 <div class="row">
-       <div class="col-md 6" style="background: red">
+       <div class="col-md 6" style="background: yellow">
        	<h1> 6 coloum</h1>
        </div>	
 <div class="row">	
@@ -34,9 +34,9 @@
 <!-- end footer -->
 
 <!-- pemanggilan js -->
-<script src="/assets/js/bootstrap.budle.js"></script>
+<script src=" assets/js/bootstrap.budle.js"></script>
 
-<script src="/assets/js/bootstrap.budle.min.css"></script>
+<script src=" assets/js/bootstrap.budle.min.css"></script>
 <!-- akhir pemanggilan css -->
 
 </body>
